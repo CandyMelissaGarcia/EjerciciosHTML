@@ -1,0 +1,29 @@
+
+body {
+
+background-color: rgba(179, 230, 236, 0.925);
+
+}
+
+h1{
+    background-image: url(./blueclouds.webp);
+    background-size: 30px;
+    background-repeat: repeat;
+}
+
+h2{
+    background-image: url(./blueclouds.webp);
+}
+h3{
+    background-image: url(./blueclouds.webp);
+}
+h4{
+    background-image: url(./blueclouds.webp);
+}
+h5{
+    background-image: url(./blueclouds.webp);
+}
+h6{
+    background-image: url(./blueclouds.webp);
+}
+

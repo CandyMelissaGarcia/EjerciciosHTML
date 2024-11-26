@@ -1,0 +1,32 @@
+
+
+body{
+    font-family: "Roboto Condensed", sans-serif;
+    background-color: rgb(168, 211, 248);
+}
+
+div#uno{
+    
+    border: 5px solid rgb(160, 121, 196); text-align: center; background-color: mediumpurple; padding: 20px;
+    font-size: 30px;
+}
+
+div#dos{
+    border: 5px solid #3f7cd6; text-align: justify-self; background-color: aliceblue;
+}
+
+div#tres{
+    border: 5px solid #0c39ca; text-align: justify-self; background-color: azure;
+}
+
+div#cuatro{
+    border: 5px solid #0cb466; text-align: justify-self; background-color: cornsilk;
+}
+
+div#cinco{
+    border: 5px solid #bb11bbe8; text-align: justify-self; background-color: honeydew;
+}
+
+div#seis{
+    border: 5px solid #01181fc7; text-align: justify-self; background-color: lightcyan;
+}
